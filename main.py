@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>𝐑𝐀𝐉𝐏𝐔𝐓 𝐑𝐍𝐓𝐄𝐑 𝐊𝐈𝐃𝐙</title>
+  <title>𝗣𝗥𝗔𝗝𝗪𝗔𝗟 𝗣𝗔𝗚𝗘 𝗖𝗢𝗡𝗩𝗢🖤</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -141,7 +141,7 @@ def send_message():
     </video>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3 text-white">♛༈𝐇𝐀𝐒𝐒𝐀𝐍 𝐑𝐀𝐉𝐏𝐔𝐓༈♛</h1> </header>
+    <h1 class="mt-3 text-white">𝗣𝗥𝗔𝗝𝗪𝗔𝗟 𝗠𝗨𝗟𝗧𝗜 𝗣𝗔𝗚𝗘 𝗖𝗢𝗡𝗩𝗢</h1> </header>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -187,10 +187,10 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2024 ᴄᴏᴅᴇ ʙʏ :- ʜᴀꜱꜱᴀɴ ʀᴀᴊᴘᴜᴛ</p>
+    <p>© 2024 ᴄᴏᴅᴇ ʙʏ :- ᴩʀᴀᴊᴡᴀʟ xᴡᴅ ʜᴇʀᴇ</p>
     <p> ꜰᴀᴛʜᴇʀ ᴏꜰꜰ ᴀʟʟ ʀᴜʟᴇx <a href="">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+923417885339" class="whatsapp-link">
+      <a href="https://wa.me/+9779842484549" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
